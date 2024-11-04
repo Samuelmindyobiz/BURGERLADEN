@@ -1,5 +1,5 @@
 import basket_icon from "./basket_icon.png";
-import logo from "./logo.png";
+
 import logoo from "./Thronburger2.png";
 import header_img from "./header_img.png";
 import search_icon from "./search_icon.png";
@@ -63,7 +63,7 @@ import parcel_icon from "./parcel_icon.png";
 
 export const assets = {
   logoo,
-  logo,
+
   basket_icon,
   header_img,
   search_icon,
@@ -86,12 +86,13 @@ export const assets = {
 
 export const menu_list = [
   {
+    menu_name: "Burgers",
+    menu_image: menu_2,
+  },
+
+  {
     menu_name: "Salad",
     menu_image: menu_1,
-  },
-  {
-    menu_name: "Rolls",
-    menu_image: menu_2,
   },
   {
     menu_name: "Desserts",

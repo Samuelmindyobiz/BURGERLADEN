@@ -29,8 +29,9 @@ const Footer = () => {
                 <div className="footer-content-right">
                     <h2>GET IN TOUCH</h2>
                     <ul>
-                        <li>+4915213406905</li>
-                        <li>thronburger@gmail.com</li>
+                        <li>Tel: 03053005655</li>
+                        <li>Email: info@thronburger.de</li>
+                        <li>Address: Wilhelminenhofstr 65, 12459 Berlin</li>
                     </ul>
                 </div>
             </div>
